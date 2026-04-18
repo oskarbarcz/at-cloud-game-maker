@@ -19,7 +19,7 @@
         "symfony/framework-bundle": "6.1.*",
         "symfony/http-client": "6.1.*",
         "symfony/monolog-bundle": "^3.8",
-        "symfony/runtime": "6.1.*",
+        "symfony/runtime": "6.4.*",
         "symfony/yaml": "6.1.*"
     },
     "config": {
